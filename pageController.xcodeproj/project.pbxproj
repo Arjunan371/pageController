@@ -16,6 +16,7 @@
 		8DDE6A502A89F949002158F3 /* pageControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DDE6A4F2A89F949002158F3 /* pageControllerTests.swift */; };
 		8DDE6A5A2A89F949002158F3 /* pageControllerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DDE6A592A89F949002158F3 /* pageControllerUITests.swift */; };
 		8DDE6A5C2A89F949002158F3 /* pageControllerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DDE6A5B2A89F949002158F3 /* pageControllerUITestsLaunchTests.swift */; };
+		8DDE6A692A89FFB7002158F3 /* TextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DDE6A682A89FFB7002158F3 /* TextViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8DDE6A552A89F949002158F3 /* pageControllerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pageControllerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DDE6A592A89F949002158F3 /* pageControllerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pageControllerUITests.swift; sourceTree = "<group>"; };
 		8DDE6A5B2A89F949002158F3 /* pageControllerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pageControllerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8DDE6A682A89FFB7002158F3 /* TextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				8DDE6A382A89F946002158F3 /* AppDelegate.swift */,
 				8DDE6A3A2A89F946002158F3 /* SceneDelegate.swift */,
+				8DDE6A682A89FFB7002158F3 /* TextViewController.swift */,
 				8DDE6A3C2A89F946002158F3 /* ViewController.swift */,
 				8DDE6A3E2A89F946002158F3 /* Main.storyboard */,
 				8DDE6A412A89F949002158F3 /* Assets.xcassets */,
@@ -261,6 +264,7 @@
 				8DDE6A3D2A89F946002158F3 /* ViewController.swift in Sources */,
 				8DDE6A392A89F946002158F3 /* AppDelegate.swift in Sources */,
 				8DDE6A3B2A89F946002158F3 /* SceneDelegate.swift in Sources */,
+				8DDE6A692A89FFB7002158F3 /* TextViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,6 +441,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J9WNYC5Y9P;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = pageController/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -464,6 +469,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J9WNYC5Y9P;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = pageController/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;

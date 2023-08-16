@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8D34451D-3239-4027-B61E-14B45E6F9031"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD911AF4-298B-4945-B85A-87BEEF562B89"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pageController/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "forPageViewContoller()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA2992C8-2ED5-46A6-95E3-5DECE81E022A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pageController/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "pageViewController(_:viewControllerBefore:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EA2992C8-2ED5-46A6-95E3-5DECE81E022A - 5781dee9c89a9cbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pageController.ViewController.pageViewController(_: __C.UIPageViewController, viewControllerBefore: __C.UIViewController) -&gt; Swift.Optional&lt;__C.UIViewController&gt;"
+                  moduleName = "pageController"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/digival/Documents/pageController/pageController/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "EA2992C8-2ED5-46A6-95E3-5DECE81E022A - 5781dee9c89a9cbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pageController.ViewController.pageViewController(_: __C.UIPageViewController, viewControllerBefore: __C.UIViewController) -&gt; Swift.Optional&lt;__C.UIViewController&gt;"
+                  moduleName = "pageController"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/digival/Documents/pageController/pageController/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "282">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00B7F8BB-F977-4D52-B961-941BF5B1DCAC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pageController/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "pageViewController(_:viewControllerAfter:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "00B7F8BB-F977-4D52-B961-941BF5B1DCAC - 88e632bd1871b827"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pageController.ViewController.pageViewController(_: __C.UIPageViewController, viewControllerAfter: __C.UIViewController) -&gt; Swift.Optional&lt;__C.UIViewController&gt;"
+                  moduleName = "pageController"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/digival/Documents/pageController/pageController/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "00B7F8BB-F977-4D52-B961-941BF5B1DCAC - 88e632bd1871b827"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pageController.ViewController.pageViewController(_: __C.UIPageViewController, viewControllerAfter: __C.UIViewController) -&gt; Swift.Optional&lt;__C.UIViewController&gt;"
+                  moduleName = "pageController"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/digival/Documents/pageController/pageController/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "282">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F815405-CC1A-4DF2-9836-4DD87997C599"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pageController/TextViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "mytextView"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC23ED27-40FA-4D9A-9C69-D522DDBA2A17"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pageController/TextViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "061F7159-2661-49BF-B915-5F39CF559597"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pageController/TextViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "mytextViewConstraint()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
